@@ -1,0 +1,9 @@
+<p>phone works!</p>
+<select [(ngModel)]="code" class="form-control"  >
+
+    <option *ngFor="let i of country" [value]="i.code">{{i.name}}</option>
+</select>
+<input type="number" class="form-control" id="name" required
+       [(ngModel)]="number" name="name">
+       <button (click)="get()" type="submit" >Submit</button>
+<h1>Phone: {{result}}</h1>

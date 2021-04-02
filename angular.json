@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "phone"
+    }
+  },
+  "defaultProject": "phone",
+  "cli": {
+    "analytics": "83629584-fbc5-479b-a9f4-3f3bd7039fd6"
+  }
 }
