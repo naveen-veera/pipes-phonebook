@@ -1,0 +1,18 @@
+input{
+    margin-top: 3vh;
+}
+button{
+    margin-top: 3vh;
+}
+#result-container{
+    text-align: center;
+}
+.card{
+    margin-top: 3vh;
+    text-align: center;
+}
+.container{
+    text-align: center;
+    margin-top: 10vh;
+
+}
